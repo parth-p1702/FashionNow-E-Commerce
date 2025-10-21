@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # FashionNow E-Commerce
 
 **FashionNow** is a modern, responsive e-commerce platform built using the **MERN stack** (MongoDB, Express.js, React.js, Node.js). It allows users to browse a wide range of fashion products, manage their shopping cart, and place orders. The platform also includes an admin panel for managing products, orders, and users.
@@ -105,3 +106,7 @@ Don't forget to star the repository and share your feedback!✨
 
 ## Authors
 - [Sakthivel](https://github.com/nameissakthi)
+=======
+# FashionNow-E-Commerce
+FashionNow is a modern, responsive e-commerce platform built using the MERN stack (MongoDB, Express.js, React.js, Node.js). It allows users to browse a wide range of fashion products, manage their shopping cart, and place orders. The platform also includes an admin panel for managing products, orders, and users.
+>>>>>>> 57782841ade097ae22ed87411f6a4b5d357807bc
