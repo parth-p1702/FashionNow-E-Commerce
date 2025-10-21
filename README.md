@@ -105,5 +105,5 @@ VITE_BACKEND_URL="http://localhost:4000"
 Don't forget to star the repository and share your feedback!✨
 
 ## Authors
-- [Sakthivel](https://github.com/parth-p1702)
+- [Parthkumar](https://github.com/parth-p1702)
 
