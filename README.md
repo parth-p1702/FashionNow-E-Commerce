@@ -26,7 +26,7 @@ This project is inspired by the **GreatStack YouTube Channel**. You can watch th
 
 ### **Clone the repository:**
 ```bash
-git clone https://github.com/nameissakthi/Fashionnow_Ecommerce.git
+git clone https://github.com/parth-p1702/Fashionnow_Ecommerce.git
 ```
 
 ### **Navigate to the project directory**
