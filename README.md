@@ -106,6 +106,8 @@ VITE_BACKEND_URL="http://localhost:4000"
 ![Uploading Screenshot 2025-10-21 171840.png…]()
 ![Uploading Screenshot 2025-10-21 171914.png…]()
 ![Uploading Screenshot 2025-10-24 085228.png…]()
+<img width="1919" height="873" alt="image" src="https://github.com/user-attachments/assets/53dd9420-82b9-4b86-9b4c-d3f0facbbaf9" />
+
 
 
 ## Authors
