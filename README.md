@@ -101,8 +101,12 @@ VITE_BACKEND_URL="http://localhost:4000"
 - Navigate to the `admin` directory: `cd admin`
 - Start the server: `npm run dev`
 
-## **Bonus**
-Don't forget to star the repository and share your feedback!✨
+## **Output**
+![Uploading Screenshot 2025-10-21 171757.png…]()
+![Uploading Screenshot 2025-10-21 171840.png…]()
+![Uploading Screenshot 2025-10-21 171914.png…]()
+![Uploading Screenshot 2025-10-24 085228.png…]()
+
 
 ## Authors
 - [Parthkumar](https://github.com/parth-p1702)
