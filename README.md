@@ -102,12 +102,11 @@ VITE_BACKEND_URL="http://localhost:4000"
 - Start the server: `npm run dev`
 
 ## **Output**
-![Uploading Screenshot 2025-10-21 171757.png…]()
-![Uploading Screenshot 2025-10-21 171840.png…]()
-![Uploading Screenshot 2025-10-21 171914.png…]()
-![Uploading Screenshot 2025-10-24 085228.png…]()
 <img width="1919" height="873" alt="image" src="https://github.com/user-attachments/assets/53dd9420-82b9-4b86-9b4c-d3f0facbbaf9" />
-
+<img width="1919" height="867" alt="image" src="https://github.com/user-attachments/assets/842ffb7b-d812-4816-ad43-494f237af21e" />
+<img width="1919" height="792" alt="image" src="https://github.com/user-attachments/assets/05da68b0-55e7-475f-8980-80639d23c98d" />
+<img width="1919" height="874" alt="image" src="https://github.com/user-attachments/assets/82aa655e-4ba7-499c-8cad-f151b219b643" />
+<img width="1919" height="93" alt="image" src="https://github.com/user-attachments/assets/1cbcfa91-57c7-4054-a3e1-535369bcf780" />
 
 
 ## Authors
